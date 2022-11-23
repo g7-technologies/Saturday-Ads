@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "419341139117",
+    "project_id": "wallafy-150913"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419341139117:android:2e20cec070015f12",
+        "android_client_info": {
+          "package_name": "com.app.wallafy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419341139117-k5t6u0eke67e6qtdopijfr8tot35jfm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.wallafy",
+            "certificate_hash": "B9A56969A3634B4B1BFE20C492F9AA81086AD418"
+          }
+        },
+        {
+          "client_id": "419341139117-rrkduajv36268psmhsfvg0tksjfutc2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiPTqWNfjzZG6MVATkvcCFiyyCMo66iL8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

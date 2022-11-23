@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#13c1ac</color>
+    <color name="colorPrimaryDark">#14AE9C</color>
+    <color name="colorAccent">#14AE9C</color>
+    <color name="divider">#d0dbe5</color>
+    <color name="bg">#f4f4f4</color>
+    <color name="primaryText">#515e6a</color>
+    <color name="secondaryText">#8ea1b2</color>
+    <color name="red">#ff003c</color>
+    <color name="white">#000000</color>
+    <color name="border_dark">#B6B6B6</color>
+    <color name="border">#f4f4f4</color>
+    <color name="black">#000000</color>
+    <color name="swipeColor">#14AE9C</color>
+    <color name="progressColor">#14AE9C</color>
+    <color name="grey">#cccccc</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="sold_out">#14AE9C</color>
+</resources>

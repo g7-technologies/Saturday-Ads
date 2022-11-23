@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\saturdayads\parallaxScroll\src\main\assets"/><source path="D:\saturdayads\parallaxScroll\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\saturdayads\parallaxScroll\src\debug\assets"/></dataSet></merger>
